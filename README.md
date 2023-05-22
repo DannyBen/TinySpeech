@@ -10,9 +10,17 @@ Download the binary from the
 
 ## Usage
 
-- <kbd>Ctrl</kbd>+<kbd>F12</kbd> - Speak selected text
+- <kbd>F12</kbd> - Speak selected text
 - <kbd>F11</kbd> - Pause/Resume speaking
--	<kbd>ESC</kbd> - Stop speaking
+-	<kbd>F10</kbd> - Stop speaking
+
+## Configuration
+
+Running TinySpeech for the first time will create a `TinySpeech.ini` file in the
+same directory. This file can be used to configure hotkeys.
+
+- [HotKeySet documentation](https://www.autoitscript.com/autoit3/docs/functions/HotKeySet.htm)
+- [List of keys and modifiers](https://www.autoitscript.com/autoit3/docs/functions/Send.htm)
 
 ## Additional Voices
 
