@@ -85,7 +85,6 @@ Func GetSelectedText($delay = 10)
     $count += 1
   WEnd
   $text = StringRegExpReplace($text, "[\r\n]+", " ")
-  MsgBox(4096, "Debug Info", $text)
   Return $text
 EndFunc
 
