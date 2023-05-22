@@ -10,9 +10,9 @@ Download the binary from the
 
 ## Usage
 
-- <kbd>F12</kbd> - Speak selected text
-- <kbd>F11</kbd> - Pause/Resume speaking
--	<kbd>F10</kbd> - Stop speaking
+- <kbd>F1</kbd> - Speak selected text
+- <kbd>F3</kbd> - Pause/Resume speaking
+-	<kbd>F4</kbd> - Stop speaking
 
 ## Configuration
 
