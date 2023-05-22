@@ -5,7 +5,8 @@ any selected text using the default (SAPI) Windows Text-to-Speech.
 	
 ## Installation
 
-Download the binary from the releases page and run it.
+Download the binary from the
+[releases](https://github.com/DannyBen/TinySpeech/releases) page and run it.
 
 ## Usage
 
