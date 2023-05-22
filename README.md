@@ -1,8 +1,7 @@
 # Tiny Speech
 
-Tiny Speech is a portable system tray utility for Windows that adds a global
-hotkey that speaks any selected text using the default (SAPI) Windows Text to
-Speech.
+Portable system tray utility for Windows that adds a global hotkey for speaking
+any selected text using the default (SAPI) Windows Text-to-Speech.
 	
 ## Installation
 
