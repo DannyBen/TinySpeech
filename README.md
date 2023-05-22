@@ -9,6 +9,6 @@ Download the binary from the releases page and run it.
 
 ## Usage
 
-- Ctrl+F12 - Speak selected text
-- F11 - Pause/Resume speaking
--	ESC - Stop speaking
+- <kbd>Ctrl</kbd>+<kbd>F12</kbd> - Speak selected text
+- <kbd>F11</kbd> - Pause/Resume speaking
+-	<kbd>ESC</kbd> - Stop speaking
